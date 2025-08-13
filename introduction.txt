@@ -1,3 +1,5 @@
 #!/bin/bash
-Hello, I am Immaculata 
+Brief Introduction About Myself
+
+Hello, my name is Immaculata 
 And I am studying Software Engineering
